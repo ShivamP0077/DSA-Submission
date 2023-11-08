@@ -1,19 +1,19 @@
 # DSA-Submission
 
-##Assignment One:
+## Assignment One:
 
 - Implementation of Stack & it's Functions (Push, Pop, Peek) + Check conditions of overflow & underflow (IsEmpty / IsFull) 
 
 - Implementation of Prefix & Postfix notation
 
-Assignment Two:
+## Assignment Two:
 
 - Implement Queue & it's functions
 -Enqueue, Dequeue
 
 - Implement Circular Queue 
 
-##Assignment Three:
+## Assignment Three:
 
 - Implement Singly Linked List & it's Functions
 
@@ -23,7 +23,7 @@ Assignment Two:
 - Insert an element at the 'n' th location 
 - copy the linked list
 
-##Assignment Four:
+## Assignment Four:
 
 - Implement Doubly Linked List & it's functions
 
@@ -36,27 +36,27 @@ Assignment Two:
 
 - Implement Doubly Circular Linked List
 
-##Assignment Five:
+## Assignment Five:
 
 - Implementation of Bubble Sort
 - Implementation of Insertion Sort
 
-##Assignment Six:
+## Assignment Six:
 
 - Implement Quick Sort
 - Implement Merge Sort
 - Implement Counting Sort
 - Implement Radix Sort
 
-##Assignment Seven :
+## Assignment Seven :
 
 - Implement Binary Tree
 - Implement Binary Search Tree
 
-##Assignment Eight :
+## Assignment Eight :
 
 - Implement an entire AVL Tree with all it's utilities like Insert, Delete, Change etc.
 
-##Assignment Nine :
+## Assignment Nine :
 
 - Implement B Tree and B+ Tree
