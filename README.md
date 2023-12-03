@@ -4,7 +4,9 @@
 
 - Implementation of Stack & it's Functions (Push, Pop, Peek) + Check conditions of overflow & underflow (IsEmpty / IsFull) 
 
-- Implementation of Prefix & Postfix notation
+- Implementation of Postfix notation
+
+- 2 Application of stack : 1)Infix to PostFix 2) Tower Of Hanoi
 
 ## Assignment Two:
 
@@ -12,6 +14,8 @@
 -Enqueue, Dequeue
 
 - Implement Circular Queue 
+
+- Applicartion of Queue : Stack using Queue
 
 ## Assignment Three:
 
@@ -40,6 +44,7 @@
 
 - Implementation of Bubble Sort
 - Implementation of Insertion Sort
+- Implementation of Selection Sort
 
 ## Assignment Six:
 
